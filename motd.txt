@@ -1,0 +1,9 @@
+TopHat News
+
+Added Pets
+Added Playfab
+Better reporting (Shows players playfab id)
+Added a debug mod (Check under table)
+Added more keys to keyboard
+Made Tophat News sync to a github repo,
+so it will change without having to update
